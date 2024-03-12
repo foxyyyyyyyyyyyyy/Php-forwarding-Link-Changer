@@ -40,6 +40,10 @@ Technologies used in the project:
 
 This project is licensed under the Do Whatever You Want With It License. <br> But please don't say its your code❣️
 
+<h2>🔎 Need Help?</h2>
+
+Need Help? Write me a mail to info@maierfabian.de
+
 <h2>💖Like my work?</h2>
 
 Buy me a [Coffée](https://ko-fi.com/fabi98_6)
